@@ -7,3 +7,5 @@ Machine, Machine &amp; Machine!
 | 2. Python Libraries:  | [PyGithub](https://github.com/PyGithub/PyGithub), [NumPy](http://www.numpy.org/) |
 | 3. R                  |         |
 | 4. R Packages         |         |
+
+@author : [Prabhat Kumar](http://prabhatkumar.org/)
