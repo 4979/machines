@@ -1,5 +1,5 @@
 # Machines
-Machine, Machine &amp; Machine!
+**Machine, Machine &amp; Machine! = [Machines]**
 
 ### Dependencies:
 | 1. Python:  | v2.7.9            |
