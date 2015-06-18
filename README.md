@@ -1,4 +1,4 @@
-# machine
+# Machine
 Machine, Machine &amp; Machine!
 
 ### Dependencies:
