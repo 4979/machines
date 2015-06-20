@@ -5,7 +5,7 @@
 | 1. Python:  | v2.7.9            |
 | :--------   |:----------------- |
 | 2. Python Libraries:  | [PyGithub](https://github.com/PyGithub/PyGithub), [NumPy](http://www.numpy.org/) |
-| 3. R                  |         |
+| 3. R                  | v3.2.0  |
 | 4. R Packages         |         |
 
 @author : [Prabhat Kumar](http://prabhatkumar.org/)
