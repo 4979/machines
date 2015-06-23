@@ -1,0 +1,1 @@
+/*! BarGraph JavaScript */
