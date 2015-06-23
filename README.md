@@ -9,3 +9,5 @@
 | 4. R Packages         |         |
 
 @author : [Prabhat Kumar](http://prabhatkumar.org/)
+
+Copyright : 2015, Prabhat Kumar.
